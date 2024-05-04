@@ -9,9 +9,9 @@ class Student:
 
 #========================================================
 
-s1 = Student("Shanchita", 21)  
-s2 = Student("Debadrita", 22)
-s1.name = "Moumita"
+s1 = Student("Mamun", 21)  
+s2 = Student("Sumon", 22)
+s1.name = "Ayon"
 s1.details()
 print("--------------------")
 s2.name = "Moumita"
